@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Dark
-Comment=A flat theme with transparent elements
+Name=Kirisame-Dark
+Comment=For the ordianry magician
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Dark
-MetacityTheme=Arc-Dark
+GtkTheme=Kirisame-Dark
+MetacityTheme=Kirisame-Dark
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
