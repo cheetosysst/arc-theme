@@ -1,20 +1,23 @@
-# Arc Theme
+# Kirisame
 
-Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Unity, Budgie, Pantheon, Xfce, MATE, etc.
+## Important... stuff
+I'm (trying to) modify this... And I might give up at any moment. So don't do anything to this repo, yet.
 
-## Arc is available in three variants 
+In the README and (probably) in the code, you'll see a lot of "ark", the original name of the repo, my fork is named "Kirisame", after the touhou project charctor. I'll try to change all the reference of "Ark" in the code without breaking it.
 
-##### Arc
+## Kirisame is available in three variants 
 
-![A screenshot of the Arc theme](http://i.imgur.com/Ph5ObOa.png)
+##### Kirisame
+Not modified yet.. will update in the future, maybe
+![A screenshot of the Kirisame theme]()
 
-##### Arc-Darker
+##### Kirisame-Darker
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/NC6dqyl.png)
+![A screenshot of the Kirisame-Darker theme]()
 
-##### Arc-Dark
+##### Kirisame-Dark
 
-![A screenshot of the Arc-Dark theme](http://i.imgur.com/5AGlCnA.png)
+![A screenshot of the Kirisame-Dark theme]()
 
 ## Installation
 
@@ -22,22 +25,7 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell w
 
 |Distro|Package Name/Link|
 |:----:|:----:|
-| Arch Linux | `arc-gtk-theme`, [`gtk-theme-arc-git`](https://aur.archlinux.org/packages/gtk-theme-arc-git) (AUR) |
-| Debian 8 | [OBS Repo][obs-repo] |
-| Debian Testing/Unstable | `arc-theme` |
-| Fedora 21 - 23 | [OBS Repo][obs-repo] |
-| Fedora 24 -25 | `arc-theme` |
-| Gentoo/Funtoo | `x11-themes/arc-theme` from the [Scriptkitties Overlay][sk-overlay] |
-| openSUSE | [OBS Repo][obs-repo] |
-| Solus | `arc-gtk-theme` |
-| Ubuntu 15.04 - 16.04 | [OBS Repo][obs-repo] |
-| Ubuntu 16.10 | `arc-theme` |
-
-**elementary OS Note:** elementary OS Freya users can install the package for Ubuntu 15.04, Loki users can install the package for Ubuntu 16.04.
-
-**AUR Note:** If you're having trouble with the AUR packages please email the package maintainer at zach@zach-adams.com before creating an issue.
-
-A non-transparent version of the theme is available here: [Arc Solid OBS repo](http://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme-solid)
+| Nothing | Placeholder |
 
 --
 
@@ -68,7 +56,7 @@ Install the theme with the following commands
 
 Clone the git repository with
 
-    git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
+    git clone https://github.com/cheetosysst/arc-theme --depth 1 && cd arc-theme
 
 #### 2. Build and install the theme
 
@@ -143,14 +131,10 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## Bugs
-If you find a bug, please report it at https://github.com/horst3180/arc-theme/issues
+If you find a bug, please report it at https://github.com/cheetosysst/arc-theme/issues
+If anything doesn't work, it's probably me being stupi and broke somethin I shouldn't touch. So let's not bother the original devs. BUT, if you are 100% sure it's not me, here's a link to the original repo https://github.com/horst3180/arc-theme
 
 ## License
 Arc is available under the terms of the GPL-3.0. See `COPYING` for details.
 
-## Full Preview
-![A full screenshot of the Arc theme](http://i.imgur.com/tD1OBQ3.png)
-<sub>Screenshot Details: Icons: [Arc](https://github.com/horst3180/arc-icon-theme) | Launcher Icons based on [White Pixel Icons](http://darkdawg.deviantart.com/art/White-Pixel-Icons-252310560) | [Wallpaper](https://pixabay.com/photo-869593/) | Font: Futura Bk bt</sub>
-
-[obs-repo]: http://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme
-[sk-overlay]: https://c.darenet.org/scriptkitties/overlay
+I'm not familiar with forking repo, I want to make sure I'm not doing anything wrong before modifying License file.
